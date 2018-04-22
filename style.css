@@ -2,6 +2,10 @@
 	text-transform: uppercase;
 	text-align: center;
 }
+a{
+	text-align: center;
+	color:inherit;
+}
 hr{
     border: 0;
     height: 1px;
@@ -9,13 +13,18 @@ hr{
 }
 #me{
 	margin-top: 2.5%;
-	max-width: 10%;
-	max-height: 10%;
+	max-width: 15%;
+	max-height: 15%;
 	transform: scale(1);
 }
 .social-media{
 	text-align: center;
+	font-size: 32px;
 }
-.technology h2{
-	text-transform: center;
+.project-section{
+	text-align: center;
+}
+
+li{
+	list-style: none;
 }
