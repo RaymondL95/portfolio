@@ -22,9 +22,10 @@ hr{
 	font-size: 32px;
 }
 .project-section{
-	text-align: center;
+	float: left;
+	padding-left: 35%;
 }
 
-li{
-	list-style: none;
+.project-description {
+	font-family: Roboto, Arial;
 }
